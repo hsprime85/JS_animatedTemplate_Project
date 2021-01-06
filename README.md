@@ -2,7 +2,7 @@
 JS_animatedTemplate_Project
 
 <h2>using Tailwind stater template with animation effects.</h2>
-<h3>font awesome, unsplash image, randome user image and Animate On Scroll Library</h3>
+<h3>font awesome, unsplash image, random user image and Animate On Scroll Library</h3>
 
 https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation<br>
 https://fontawesome.com/icons?d=gallery&q=close&m=free<br>
